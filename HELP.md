@@ -7,5 +7,5 @@ Among the examples there are:
 * JSON to Http routes
 * REST routes
 
-For the ActiveMQ and the Http forwarding routes, see the camel-examples-microservice-aux for an
-auxiliary project that serves as the counterpart in the example
+For the ActiveMQ and the Http forwarding routes, see the apache-camel-examples-microservice_aux for an
+auxiliary project that serves as the counterpart in the examples
