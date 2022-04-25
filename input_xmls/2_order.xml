@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<order>
+    <id>6532463</id>
+    <date>2013-12-05T18:10:07.963-02:00</date>
+    <items>
+        <item>
+            <format>PRINTED</format>
+            <amount>1</amount>
+            <book>
+                <code>mean</code>
+                <title>Full stack JavaScript para aplicações web com MongoDB, Express, Angular e Node</title>
+                <shortTitle>MEAN</shortTitle>
+                <authorName>Flávio Almeida</authorName>
+                <priceEbook>39.90</priceEbook>
+                <pricePrinted>69.90</pricePrinted>
+            </book>
+        </item>
+        <item>
+            <format>EBOOK</format>
+            <amount>1</amount>
+            <book>
+                <code>ARQ</code>
+                <title>Introdução à Arquitetura e Design de Software</title>
+                <shortTitle>Arquitetura Java</shortTitle>
+                <authorName>Sergio Lopes, Paulo Silveira, Guilherme Silveira, Nico Steppat, outros</authorName>
+                <priceEbook>29.90</priceEbook>
+                <pricePrinted>79.90</pricePrinted>
+            </book>
+        </item>
+    </items>
+    <payment>
+        <status>CONFIRMED</status>
+        <amount>99.80</amount>
+        <username>Joana Galindo</username>
+        <userEmail>gal@efg.com</userEmail>
+    </payment>
+</order>
