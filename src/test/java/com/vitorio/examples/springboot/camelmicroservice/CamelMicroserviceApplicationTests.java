@@ -1,10 +1,10 @@
-package com.vitorio.examples.springboot.camelmiscroservice;
+package com.vitorio.examples.springboot.camelmicroservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CamelMiscroserviceApplicationTests {
+class CamelMicroserviceApplicationTests {
 
 	@Test
 	void contextLoads() {

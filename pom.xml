@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vitorio.examples.springboot</groupId>
-	<artifactId>camel-miscroservice</artifactId>
+	<artifactId>camel-microservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>camel-miscroservice</name>
+	<name>camel-microservice</name>
 	<description>Demo project for Apache Camel using Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

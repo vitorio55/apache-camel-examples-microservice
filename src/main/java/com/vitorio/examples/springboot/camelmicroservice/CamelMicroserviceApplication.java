@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CamelMiscroserviceApplication {
+public class CamelMicroserviceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CamelMiscroserviceApplication.class, args);
+		SpringApplication.run(CamelMicroserviceApplication.class, args);
 	}
 
 }
